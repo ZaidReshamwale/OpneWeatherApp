@@ -7,10 +7,10 @@ A sleek, modern weather application that fetches real-time weather data from Ope
 ## 📸 Preview
 
 ### 🔹 On Load (Default - waiting for location permission):
-![Default Location Request](./GeoLocation.png)
+![Default Location Request](/Images/GeoLocation.png)
 
 ### 🔹 After Searching for a City (e.g. Mexico):
-![Weather for Mexico](./SearchResult.png)
+![Weather for Mexico](/Images/SearchResult.png)
 
 ---
 
