@@ -66,38 +66,38 @@ body {
 
 /* Weather Background Color Classes */
 .bg-sunny {
-	background-image: url(sunny.jpg);
+	background-image: url(/Images/sunny.jpg);
 	background-size: cover;
 	background-position: center;
 }
 
 .bg-cloudy {
-	background-image: url(cloudy.jpg);
+	background-image: url(/Images/cloudy.jpg);
 	background-size: cover;
 	background-position: center;
 }
 
 .bg-rainy {
-	background-image: url(rainy.jpg);
+	background-image: url(Images/rainy.jpg);
 	background-size: cover;
 	background-position: center;
 }
 
 .bg-snow {
-	background-image: url(snow.jpg);
+	background-image: url(Images/snow.jpg);
 	background-size: cover;
 	background-position: center;
 	color: #2d3436;
 }
 
 .bg-thunder {
-	background-image: url(thunder.jpg);
+	background-image: url(Images/thunder.jpg);
 	background-size: cover;
 	background-position: center;
 }
 
 .bg-default {
-	background-image: url(default.jpg);
+	background-image: url(Images/default.jpg);
 	background-size: cover;
 	background-position: center;
 }
@@ -105,7 +105,7 @@ body {
 .loading {
 	font-weight: bold;
 	font-size: 1.2rem;
-	background-image: url(loading.gif);
+	background-image: url(Images//loading.gif);
 	background-size: cover;
 	background-position: center;
 	color: #2d3436;
